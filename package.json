@@ -1,0 +1,9 @@
+{
+  "name": "vue-noty-with-icon",
+  "version": "0.1.0",
+  "dependencies": {
+    "noty": "^3.2.0-beta",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {}
+}
